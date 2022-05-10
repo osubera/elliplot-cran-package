@@ -74,7 +74,7 @@ and is invisibly returned when plot=TRUE.
 }
 \references{
 Ellipse Summary Plot
-\url{http://tomizonor.wordpress.com/2013/04/29/ellipse-plot/}
+\url{https://tomizonor.wordpress.com/2013/04/29/ellipse-plot/}
 }
 \author{
 Shinichiro Tomizono

@@ -27,8 +27,8 @@ of x and y axis.
 Maintainer: \packageMaintainer{elliplot}
 }
 \references{
-Quantiles: \url{http://tomizonor.wordpress.com/2013/04/28/quantiles-octiles/}\cr
-Ellipse Plot: \url{http://tomizonor.wordpress.com/2013/04/29/ellipse-plot/}
+Quantiles: \url{https://tomizonor.wordpress.com/2013/04/28/quantiles-octiles/}\cr
+Ellipse Plot: \url{https://tomizonor.wordpress.com/2013/04/29/ellipse-plot/}
 }
 \keyword{ package }
 \keyword{ hplot }
